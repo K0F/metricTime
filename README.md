@@ -1,0 +1,25 @@
+# Metric time for everyone
+
+Utility thet converts babylonian to metric time. Day has 20h and it is divided linearly. One 1dh = 1.2h. One 1ds = 0.432s.
+
+
+## Usage
+
+  ```./dh [unix time]```
+
+  That will output something as following:
+
+
+  ```bash
+  Standard:     13:30:14
+  -------------------------
+  Metric UI:    11.25.33
+  Metric Float: 11,2533 dh
+```
+
+
+## Build
+
+```bash
+make
+```
