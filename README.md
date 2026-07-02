@@ -1,6 +1,6 @@
 # Metric time for everyone
 
-Utility thet converts babylonian to metric time. Day has 20h and it is divided linearly. One 1dh = 1.2h. Day hour has 100 minutes, minute has 100 seconds. One 1ds = 0.432s.
+Utility thet converts babylonian to metric time. Day has 20h and it is divided linearly. One 1dh = 1.2h. Day hour has 100 minutes, minute has 100 seconds. One 1ds = 0.432s or 2,3147Hz.
 
 
 ## Usage
